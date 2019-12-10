@@ -1,0 +1,5 @@
+//kuwait weather
+api.openweathermap.org/data/2.5/weather?q=Kuwait&appid=52ee98269f50b14e947d342b3b877ac2
+
+//Telavi 5 days weather
+api.openweathermap.org/data/2.5/forecast?q=Telavi&appid=52ee98269f50b14e947d342b3b877ac2
